@@ -30,7 +30,7 @@ O excel possui 3 planilhas: Dashboard, Data, Controller e Caixinha.<br><br>
 <br><br>
 
 ## Arquivo
-A planilha pode ser baixada aqui.
+A planilha pode ser baixada <a href="https://github.com/silvanat/controle_financeiro_excel/blob/main/planilha_financeira_exercicio.xlsx">aqui.
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/silvanat">Silvana T. Ynemine</a>.</div>
