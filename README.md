@@ -23,11 +23,13 @@ O excel possui 3 planilhas: Dashboard, Data, Controller e Caixinha.<br><br>
 ## Prints
 
 **Visão geral da dashboard**<br><br>
-![dashboard geral](https://github.com/user-attachments/assets/a12d80ac-4b45-4f11-a5b4-638b6ecbe63c)
+![dashboard geral](https://github.com/user-attachments/assets/25319637-809c-489a-847a-003282016270)
+
 
 <br><br>
 **Filtro por mês**<br><br>
-![Dashboard com filtro para o mês de agosto](https://github.com/user-attachments/assets/29a70272-b252-4f82-b3d9-c78cc39877d3)
+![dashboard_setembro](https://github.com/user-attachments/assets/f85e1a5d-3244-4096-a0f4-74df35876ab7)
+
 
 <br><br>
 
