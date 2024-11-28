@@ -23,14 +23,18 @@ O excel possui 3 planilhas: Dashboard, Data, Controller e Caixinha.<br><br>
 ## Prints
 
 **Visão geral da dashboard**<br><br>
-![dashboard geral](https://github.com/user-attachments/assets/a0538903-de9d-4aab-9189-6caa65ee587a) 
+![dashboard geral](https://github.com/user-attachments/assets/25319637-809c-489a-847a-003282016270)
+
+
 <br><br>
 **Filtro por mês**<br><br>
-![dashboard filtro agosto](https://github.com/user-attachments/assets/b1bedfc7-4f09-490b-bf05-8393e46a7ebf) 
+![dashboard_setembro](https://github.com/user-attachments/assets/f85e1a5d-3244-4096-a0f4-74df35876ab7)
+
+
 <br><br>
 
 ## Arquivo
-A planilha pode ser baixada <a href="https://github.com/silvanat/controle_financeiro_excel/blob/main/planilha_financeira_exercicio.xlsx">aqui.
+A planilha pode ser baixada <a href="https://github.com/silvanat/controle_financeiro_excel/raw/refs/heads/main/file/planilha_financeira_exercicio.xlsx">aqui.
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/silvanat">Silvana T. Ynemine</a>.</div>
